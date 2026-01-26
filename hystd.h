@@ -7,4 +7,4 @@ typedef uint32_t        reg_u;
 typedef int32_t         reg_i;
 typedef float           reg_f;
 
-#endif /* HYLIB_H */
+#endif /* HYSTD_H */
