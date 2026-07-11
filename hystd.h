@@ -8,7 +8,7 @@
 
 typedef uintptr_t       _reg_u;
 typedef intptr_t        _reg_i;
-typedef double          _reg_f;
+typedef float          _reg_f;
 
 typedef _reg_u           reg_u;
 typedef _reg_i           reg_i;
